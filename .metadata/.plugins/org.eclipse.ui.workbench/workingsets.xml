@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1735024944460_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1735024944476_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1735024970363_3" label="webgoat-parent" name="webgoat-parent">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/webgoat-container" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/webgoat-lessons" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/bypass-restrictions" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/challenge" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/client-side-filtering" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/cross-site-scripting" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/html-tampering" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/http-basics" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/cia" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/chrome-dev-tools" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/http-proxies" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/insecure-login" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/insecure-deserialization" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jwt" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/sql-injection" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/xxe" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/idor" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/vulnerable-components" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/webgoat-introduction" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/webwolf-introduction" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/auth-bypass" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/missing-function-ac" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/csrf" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/password-reset" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ssrf" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/secure-passwords" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/webgoat-lesson-template" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/crypto" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/path-traversal" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spoof-cookie" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/logging" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/hijack-session" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/webgoat-server" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/webwolf" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/webgoat-integration-tests" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/docker" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1735024944883_2" label="Window Working Set" name="Aggregate for window 1735024944883"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1735025994186_4" label="Window Working Set" name="Aggregate for window 1735025994186"/>
+</workingSetManager>
